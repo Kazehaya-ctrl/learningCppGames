@@ -7,7 +7,7 @@ int main(){
 
    vec.insert(vec.begin(), 2);
 
-   for (int i : vec) {
+   for (int& i : vec) {
       std::cout << i << std::endl;
    }
    return 0;
