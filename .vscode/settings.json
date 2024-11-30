@@ -49,5 +49,6 @@
 		"string": "cpp",
 		"xhash": "cpp",
 		"xtree": "cpp"
-	}
+	},
+	"cmake.sourceDirectory": "C:/Users/abhis/OneDrive/Documents/learningGameCpp/chapter2/headerfiles"
 }
